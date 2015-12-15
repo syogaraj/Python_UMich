@@ -6,6 +6,7 @@
 
 !*.py
 !*.txt
+!*.sqlite
 
 # ...even if they are in subdirectories
 !*/
